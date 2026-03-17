@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Yunzhong.
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DigitalLifeYZQiu)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DigitalLifeYZQiu&theme=sakura-x&hide_border=true&border_radius=5&short_numbers=true&exclude_days=Sun%2CSat&card_width=600)](https://git.io/streak-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?DigitalLifeYZQiu=page.id&left_color=green&right_color=red)
 
