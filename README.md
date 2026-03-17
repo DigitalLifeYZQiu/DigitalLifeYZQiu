@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 ![DigitalLifeYZQiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=digitallifeyzqiu)
+
 ![Metrics](/github-metrics.svg)
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=digitallifeyzqiu&left_color=green&right_color=red)
 
