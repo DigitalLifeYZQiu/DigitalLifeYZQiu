@@ -1,8 +1,6 @@
 # Hi there 👋 This is Yunzhong. ![](https://komarev.com/ghpvc/?username=digitallifeyzqiue&color=blue&style=flat-square)
 
-## Resume
-
-View my **[English Resume](./RESUME.md)** or **[中文简历](./RESUME.zh-CN.md)**.
+![GitHub Streak](https://streak-stats.demolab.com?user=DigitalLifeYZQiu&theme=sakura-x&hide_border=true&border_radius=5&short_numbers=true&exclude_days=Sun%2CSat&card_width=600)(https://git.io/streak-stats)
 
 ## About Me
 
@@ -17,7 +15,7 @@ I am a Machine Learning researcher who enjoys studying the intersection of scien
 
 ## My Actions
 
-<div align="center">![GitHub Streak](https://streak-stats.demolab.com?user=DigitalLifeYZQiu&theme=sakura-x&hide_border=true&border_radius=5&short_numbers=true&exclude_days=Sun%2CSat&card_width=600)(https://git.io/streak-stats)</div>
+
 
 ![DigitalLifeYZQiu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DigitalLifeYZQiu&theme=react-dark)
 
