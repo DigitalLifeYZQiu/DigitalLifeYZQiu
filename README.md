@@ -17,9 +17,9 @@ I am a Machine Learning researcher who enjoys studying the intersection of scien
 
 ## My Actions
 
-<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=DigitalLifeYZQiu&theme=sakura-x&hide_border=true&border_radius=5&short_numbers=true&exclude_days=Sun%2CSat&card_width=600)](https://git.io/streak-stats)</div>
+<div align="center">![GitHub Streak](https://streak-stats.demolab.com?user=DigitalLifeYZQiu&theme=sakura-x&hide_border=true&border_radius=5&short_numbers=true&exclude_days=Sun%2CSat&card_width=600)(https://git.io/streak-stats)</div>
 
-<div align="center">![DigitalLifeYZQiu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DigitalLifeYZQiu&theme=react-dark)</div>
+![DigitalLifeYZQiu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DigitalLifeYZQiu&theme=react-dark)
 
 <div align="center"><img src="/github-metrics.svg"> </div>
 
