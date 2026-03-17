@@ -1,6 +1,6 @@
 # Hi there 👋 This is Yunzhong. ![](https://komarev.com/ghpvc/?username=digitallifeyzqiue&color=blue&style=flat-square)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DigitalLifeYZQiu&theme=sakura-x&hide_border=true&border_radius=5&short_numbers=true&exclude_days=Sun%2CSat&card_width=600)(https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DigitalLifeYZQiu&theme=sakura-x&hide_border=true&border_radius=5&short_numbers=true&exclude_days=Sun%2CSat&card_width=600)](https://git.io/streak-stats)
 
 ## About Me
 
