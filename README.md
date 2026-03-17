@@ -1,10 +1,12 @@
-## Hi there 👋
+## Hi there 👋 This is Yunzhong.
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DigitalLifeYZQiu)
 
 ![visitors](https://visitor-badge.glitch.me/badge?DigitalLifeYZQiu=page.id&left_color=green&right_color=red)
 
 ![DigitalLifeYZQiu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DigitalLifeYZQiu)
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<div align="center"><img src="/github-metrics.svg"> </div>
 
 
 
